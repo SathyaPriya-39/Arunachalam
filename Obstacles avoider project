@@ -4,6 +4,8 @@
   #define Trig A1
   #define motor 10
   #define Speed 170
+  
+  
   #define spoint 103
  
   char value;
